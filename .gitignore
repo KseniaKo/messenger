@@ -1,0 +1,12 @@
+node_modules/
+.tmp/
+.cache
+npm-debug.log
+.history
+.vscode
+.cache_loader
+
+
+## Mac OS X
+**/.DS_Store
+.AppleDouble
