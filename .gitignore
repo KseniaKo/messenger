@@ -5,7 +5,7 @@ npm-debug.log
 .history
 .vscode
 .cache_loader
-
+.idea/
 
 ## Mac OS X
 **/.DS_Store
